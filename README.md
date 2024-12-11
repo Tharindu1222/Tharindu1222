@@ -3,13 +3,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Tharindu1222</h1>
-<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
+<h3 align="center">Software Developer at Toyota Lanka </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu200012&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu200012" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning New Technologies
 
-- 💬 Ask me about **react, tailwind, java**
+- 💬 Ask me about Devs...
 
 - 📫 How to reach me **https://www.linkedin.com/in/tharindu-dilshan-6735662a9/**
 
